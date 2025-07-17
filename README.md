@@ -1,28 +1,39 @@
 # Nomad Storyboard
+<img width="1440" height="504" alt="image" src="https://github.com/user-attachments/assets/226981b3-22dc-46fd-beeb-5f8d487f05f8" />
 
 A comprehensive iOS travel companion app built with Swift and Storyboard, designed to enhance the travel experience with multiple essential features for modern nomads.
+<img width="348" height="162" alt="image" src="https://github.com/user-attachments/assets/a572fc92-a219-4eeb-a853-ce8270ef5c69" /><img width="348" height="162" alt="image" src="https://github.com/user-attachments/assets/dcdf86c3-e310-4d98-b291-d28b7bf729b6" />
+
 
 ## 📱 Features
+<img width="348" height="170" alt="image" src="https://github.com/user-attachments/assets/13ca633c-6f4e-4f1d-aafb-8f7aa82ea1da" />
 
 ### 🏠 Home
 - **Welcome Screen**: Beautiful landing page with custom travel imagery
 - **User-Friendly Interface**: Clean and intuitive design for easy navigation
+<img width="480" height="440" alt="image" src="https://github.com/user-attachments/assets/6d886f48-d0c4-4463-902b-82355382d605" />
 
 ### 💬 Chat/Proximity
 - **Proximity Detection**: Real-time location-based proximity features
 - **Distance Tracking**: Displays distance information to nearby points of interest
 - **Interactive Table View**: Lists nearby locations and travelers
+<img width="480" height="440" alt="image" src="https://github.com/user-attachments/assets/fcb38121-5766-49b9-9680-0968b6a09695" /><img width="305" height="348" alt="image" src="https://github.com/user-attachments/assets/68b90d73-47a8-4bf6-bade-bc3a36b14b24" />
+
 
 ### 🗺️ Itinerary
 - **Destination Planning**: Enter and manage travel destinations
 - **Interactive Map**: Built-in map view for location visualization
 - **Itinerary Generation**: Automated itinerary creation based on destination
 - **Picker View**: Easy selection of travel options and preferences
+<img width="480" height="440" alt="image" src="https://github.com/user-attachments/assets/f8357649-1a57-489b-be26-aab12f84b8e3" /><img width="305" height="388" alt="image" src="https://github.com/user-attachments/assets/cf052ca0-91a1-49d2-bd19-cf3c59241fb6" />
+
 
 ### 🆘 SOS Emergency
 - **Emergency Alert System**: One-tap SOS button for immediate assistance
 - **Emergency Assistance**: Quick access to emergency services
 - **Safety Features**: Red-themed emergency interface for clear visibility
+- <img width="305" height="404" alt="image" src="https://github.com/user-attachments/assets/f64cc946-95dc-4b58-b906-499a166ac8c4" />
+
 
 ## 🛠️ Technical Stack
 
