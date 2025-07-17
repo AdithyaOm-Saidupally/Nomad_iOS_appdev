@@ -17,7 +17,8 @@ A comprehensive iOS travel companion app built with Swift and Storyboard, design
 - **Proximity Detection**: Real-time location-based proximity features
 - **Distance Tracking**: Displays distance information to nearby points of interest
 - **Interactive Table View**: Lists nearby locations and travelers
-<img width="480" height="440" alt="image" src="https://github.com/user-attachments/assets/fcb38121-5766-49b9-9680-0968b6a09695" /><img width="305" height="348" alt="image" src="https://github.com/user-attachments/assets/68b90d73-47a8-4bf6-bade-bc3a36b14b24" />
+<img width="305" height="338" alt="image" src="https://github.com/user-attachments/assets/8c76959e-04a6-4c0d-b0e9-5c6ad038813e" />
+<img width="305" height="348" alt="image" src="https://github.com/user-attachments/assets/68b90d73-47a8-4bf6-bade-bc3a36b14b24" />
 
 
 ### 🗺️ Itinerary
@@ -25,7 +26,8 @@ A comprehensive iOS travel companion app built with Swift and Storyboard, design
 - **Interactive Map**: Built-in map view for location visualization
 - **Itinerary Generation**: Automated itinerary creation based on destination
 - **Picker View**: Easy selection of travel options and preferences
-<img width="480" height="440" alt="image" src="https://github.com/user-attachments/assets/f8357649-1a57-489b-be26-aab12f84b8e3" /><img width="305" height="388" alt="image" src="https://github.com/user-attachments/assets/cf052ca0-91a1-49d2-bd19-cf3c59241fb6" />
+<img width="305" height="388" alt="image" src="https://github.com/user-attachments/assets/39c1c7e4-fae9-45cd-8c49-41d9ca643958" />
+<img width="305" height="388" alt="image" src="https://github.com/user-attachments/assets/cf052ca0-91a1-49d2-bd19-cf3c59241fb6" />
 
 
 ### 🆘 SOS Emergency
@@ -166,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Development Team
 
-- **Created by**: Adithya Om Saidupally
+- **Created by**: Adithya Om Saidupally, Srujana.
 - **Project**: iOS Development Course
 - **Date**: May 2025 🔮 
 
